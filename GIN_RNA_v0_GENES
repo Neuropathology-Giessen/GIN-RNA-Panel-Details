@@ -1,0 +1,45 @@
+# Design Summary
+Design Name: GIN_RNA_FUSION_v0
+Species: H. sapiens (UCSC hg19, GRCh37, February 2009)
+
+# Probegroup Summary
+Number of Probegroups: 39
+Probegroup 1 : BRAF_variant1
+Probegroup 2 : CIC_variant2
+Probegroup 3 : EGFR_variant1
+Probegroup 4 : ESR_variant2
+Probegroup 5 : FGFR3_variant1
+Probegroup 6 : FGFR1_variant14
+Probegroup 7 : FGFR2_variant1
+Probegroup 8 : FOXR2_variant1
+Probegroup 9 : IRF2BP2_variant1
+Probegroup 10 : LIN28A_variant1
+Probegroup 11 : MET_variant2
+Probegroup 12 : MLH1_variant1
+Probegroup 13 : MN1_variant1
+Probegroup 14 : MSH2_variant1
+Probegroup 15 : MYB_variant6
+Probegroup 16 : MYBL1_variant1
+Probegroup 17 : NCOA2_variant2
+Probegroup 18 : NTRK1_variant2
+Probegroup 19 : NTRK2_variantA
+Probegroup 20 : NTRK3_variant1
+Probegroup 21 : PIK3CA_variant1
+Probegroup 22 : PDGFB_variant1
+Probegroup 23 : PDGFRA_variant1
+Probegroup 24 : PLAG1_variant1
+Probegroup 25 : POLR2A_variant1
+Probegroup 26 : PRKAR1A_variant2
+Probegroup 27 : PRKCA_variant1
+Probegroup 28 : RAF_variant2
+Probegroup 29 : RELA_variant1
+Probegroup 30 : RET_variant2
+Probegroup 31 : ROS1_variant1
+Probegroup 32 : SLC44A1_variant1
+Probegroup 33 : SRY
+Probegroup 34 : SS18_variant1
+Probegroup 35 : STAT6_variant1
+Probegroup 36 : TTYH1_variant2
+Probegroup 37 : YAP1_variant1
+Probegroup 38 : ALK_variant1
+Probegroup 39 : BCOR_variant5
